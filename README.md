@@ -82,5 +82,3 @@ Escolha uma opção:
 Este projeto é pessoal e livre para uso e modificação.
 
 ---
-
-> Feito com 💙 por HadesTheSilent
