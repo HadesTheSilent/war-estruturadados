@@ -1,0 +1,28 @@
+# Compilados
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.a
+*.bin
+
+# Backup e temporários
+*~
+*.swp
+*.bak
+*.tmp
+*.log
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Outros
+*.user
+*.suo
+*.class
